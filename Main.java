@@ -5,5 +5,9 @@ public class Main{
   System.out.println("this is output of java program ");
           System.out.println("added one more line ");
         
+    Student s=new Student();
+    s.SayHell();
+    
+        
     }
 }
